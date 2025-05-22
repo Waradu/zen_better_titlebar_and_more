@@ -4,7 +4,7 @@
   "homepage": "https://github.com/Waradu/zen_better_titlebar_and_more",
   "style": "chrome.css",
   "readme": "readme.md",
-  "image": "image.png",
+  "image": "https://raw.githubusercontent.com/Waradu/zen_better_titlebar_and_more/refs/heads/main/image.png",
   "author": "Waradu",
   "preferences": "preferences.json",
   "version": "1.0.0",

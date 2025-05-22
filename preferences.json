@@ -28,7 +28,7 @@
     "defaultValue": "empty",
     "options": [
       {
-        "label": "",
+        "label": "-",
         "value": "empty"
       }
     ]
