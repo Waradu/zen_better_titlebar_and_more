@@ -1,0 +1,13 @@
+{
+  "name": "Compact Titlebar & Extras",
+  "description": "Non-disruptive and compact title bar (single toolbar only)",
+  "homepage": "https://github.com/Waradu/zen_compact_titlebar_and_extras",
+  "style": "chrome.css",
+  "readme": "readme.md",
+  "image": "image.png",
+  "author": "Waradu",
+  "preferences": "preferences.json",
+  "version": "1.0.0",
+  "isDarkMode": true,
+  "tags": ["compact", "titlebar"]
+}
