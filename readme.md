@@ -1,4 +1,4 @@
-# Compact Titlebar and Extras
+# Better Titlebar and more
 
 - Compact Titlebar
 - Borderless Sidebar

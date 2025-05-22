@@ -10,7 +10,7 @@
 
 .titlebar-buttonbox {
   padding-left: var(
-    --mod-compact_titlebar_and_extras-compact_titlebar_right_padding,
+    --mod-better_titlebar_and_more-compact_titlebar_right_padding,
     0px
   ) !important;
 }
@@ -28,7 +28,7 @@
     background: var(--zen-main-browser-background) !important;
   }
 
-  @media (-moz-bool-pref: "mod.compact_titlebar_and_extras.borderless_sidebar") {
+  @media (-moz-bool-pref: "mod.better_titlebar_and_more.borderless_sidebar") {
     &[zen-compact-mode="true"] {
       #navigator-toolbox {
         height: 100% !important;
@@ -60,13 +60,13 @@
     }
   }
 
-  @media not (-moz-bool-pref: "mod.compact_titlebar_and_extras.compact_titlebar") {
+  @media not (-moz-bool-pref: "mod.better_titlebar_and_more.compact_titlebar") {
     #zen-appcontent-navbar-wrapper {
       width: 100% !important;
     }
   }
 
-  @media (-moz-bool-pref: "mod.compact_titlebar_and_extras.compact_titlebar") {
+  @media (-moz-bool-pref: "mod.better_titlebar_and_more.compact_titlebar") {
     /* Compact titlebar */
     #zen-appcontent-navbar-wrapper {
       width: max-content !important;
@@ -77,7 +77,7 @@
   }
 }
 
-@media (-moz-bool-pref: "mod.compact_titlebar_and_extras.traffic_lights") {
+@media (-moz-bool-pref: "mod.better_titlebar_and_more.traffic_lights") {
   .titlebar-buttonbox {
     padding-left: 40px;
     toolbarbutton {
